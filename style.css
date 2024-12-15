@@ -1,0 +1,65 @@
+body {
+    background-color: lemonchiffon;
+    color:maroon;
+}
+h1 {
+    text-align: center;
+    font-style:italic;
+    font-family:'Courier New', Courier, monospace;
+}
+img {
+    width: 500px;
+    height: 450px;
+    float: left;
+    border-radius: 70px;
+    border: solid 2px;
+    border-color: saddlebrown;
+    margin-top: 20px;
+    }
+
+h4 {
+    margin-left: 590px;
+    font-family:'Courier New', Courier, monospace;
+}
+h3{
+    font-style:italic;
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 590px;
+    margin-top: 60px;
+}
+hr {
+    border: solid 1px;
+    color: saddlebrown;
+}
+a {
+    color: rgb(239, 187, 123);
+}
+p {
+    float: left;
+    width: 25%;
+    height: 30px;
+    color: white;
+    text-align: center;
+  }
+  
+
+.c1 {
+    background-color:saddlebrown;
+}
+.c2 {
+    background-color:rgb(43, 19, 2);
+}
+.c3 {
+    background-color: white;
+}
+.c4 {
+    background-color: rgb(112, 12, 12);
+}
+.icon {
+    width: 55px; 
+    height: 50px; 
+    position: relative; 
+    top: -25px; 
+    left: 525px;
+    border: none;
+}
